@@ -1,0 +1,217 @@
+No. words: 8932; after pruning: 7796
+
+
+Histogram of relative pair offsets, for read pairs with multiple alignments:
+10     2
+13     6
+14     6
+
+Pass 1
+             Gap  Score    
+Merge:(0)    0    0.0 11.8 (1,1:12)  513  1.43 0.18 0.18  qc58f03.x1       88   647 (0)    qf92b02.x1       75   634 (25) *
+Merge:(0)    0    0.0 11.1 (2,1:27)  515  0.71 0.54 0.18  qf92b02.x1       75   634 (25)    qc63h08.x1       59   620 (47) *
+Merge:(0)    0    0.0 10.4 (3,1:19)  436  1.88 0.21 0.00  qf92b02.x1       75   554 (105)    ov49c05.x1       67   547 (0) *
+Merge:(0)    0    0.0 10.1 (1,1:3)  379  2.19 0.00 3.39  yg69d01.r1        1   502 (19)    ym40c11.r1        1   485 (16) *
+Merge:(0)    0    0.0 9.8 (4,1:20)  448  0.64 0.00 0.00  qf92b02.x1       75   546 (113)    qd90b11.x1       67   538 (0) *
+Merge:(0)    0    0.0 9.7 (2,1:3)  391  3.73 0.78 1.57  yg69d01.r1        3   512 (9)    ym25a09.r1        1   506 (133) *
+Merge:(0)    0    0.0 9.4 (1,1:38)  434  0.88 0.00 0.00  zd59c11.r1       98   549 (0)    ze84d11.r1       60   511 (46) *
+Merge:(0)    0    0.0 8.4 (2,1:120)  345  2.78 0.76 0.00  ze84d11.r1      139   533 (24)    ye68e06.r1       54   451 (7) *
+Merge:(0)    0    0.0 6.3 (3,1:194)  288  0.00 0.65 0.65  ze84d11.r1      248   556 (1)    yj03b11.r1       92   400 (81) *
+Merge:(0)    0    0.0 6.0 (5,1:-23)  299  2.37 0.30 0.00  ov49c05.x1       73   410 (137)    xf06f07.x1      115   453 (411) *
+Merge:(0)    0    0.0 5.5 (6,4:1030)  213  2.53 2.89 0.36  qf92b02.x1      377   653 (6)  C yj03b11.r1   (28)   453   170 *
+Fail: (1)  121  -36.8 2.0 (10,3:867)   93  0.00 1.02 0.00  qd90b11.x1      440   537 (1)  C ym25a09.r1   (232)   407   309  
+  Worst pair: offset 0 
+LLR breakdown: discreps: -43.8 (<20 part: -1.1 (#=5), >20:-42.7 (#=13); in HQ: -43.8, out HQ 0.0), match: 8.5  trail: -1.5  lead: 0.0  total: -36.8  326  1.55 3.11 0.00  ze84d11.r1      152   537 (20)    ym40c11.r1       13   410 (91) *
+
+Pass: 1
+#reads  #contigs (not counting singlets)
+    1      2
+    3      1
+   10      1
+
+N.B. Following not based on all pairs!!
+
+Lowest   # merges  # failures
+LLR score
+0.0      11        0
+-36.8       0        1
+
+Gap   # merges  # failures
+ size
+ 0      11        0
+121       0        1
+
+Offset
+  0      29 
+  1      22 
+  2       2 
+
+Pass 3
+             Gap  Score    
+Rjct: (2)   26  -16.3 6.0 (10,1:17)  302  2.06 0.00 0.29  xf06f07.x1      115   453 (411)    ov38c02.x1       75   412 (241) *
+  Worst pair: offset 2 
+LLR breakdown: discreps: 0.0 (<20 part: 0.0 (#=7), >20:0.0 (#=0); in HQ: 0.0, out HQ 0.0), match: 1.4  trail: 0.0  lead: -17.8  total: -16.4   36  4.17 0.00 5.56  yj03b11.r1      382   453 (28)  C ov38c02.x1   (215)   438   371  
+Merge:(0)    0    0.0 5.0 (3,1:-321)  155  8.27 0.79 1.97  ym40c11.r1       13   266 (235)    yo47d11.r1      337   587 (64) *
+Rjct: (2)    0  -36.8 2.0 (10,4:867)   93  0.00 1.02 0.00  qd90b11.x1      440   537 (1)  C ym25a09.r1   (232)   407   309  
+  Worst pair: offset 2 
+LLR breakdown: discreps: -43.8 (<20 part: -1.1 (#=5), >20:-42.7 (#=13); in HQ: -43.8, out HQ 0.0), match: 8.5  trail: -1.5  lead: 0.0  total: -36.8  326  1.55 3.11 0.00  ze84d11.r1      152   537 (20)    ym40c11.r1       13   410 (91) *
+Rjct: (2)    0  -36.8 0.3 (10,4:860)  222  5.87 4.00 2.13  zd59c11.r1       57   431 (118)    yo47d11.r1      206   587 (64) *
+  Worst pair: offset 9 
+LLR breakdown: discreps: -43.8 (<20 part: -1.1 (#=5), >20:-42.7 (#=13); in HQ: -43.8, out HQ 0.0), match: 8.5  trail: -1.5  lead: 0.0  total: -36.8  326  1.55 3.11 0.00  ze84d11.r1      152   537 (20)    ym40c11.r1       13   410 (91) *
+
+Pass: 3
+#reads  #contigs (not counting singlets)
+    1      1
+    4      1
+   10      1
+
+N.B. Following not based on all pairs!!
+
+Lowest   # merges  # failures
+LLR score
+0.0       1        0
+-16.3       0        1
+-36.8       0        2
+
+Gap   # merges  # failures
+ size
+ 0       1        2
+26       0        1
+
+Offset
+  0      12 
+  1       6 
+  2       4 
+  3       1 
+  4       1 
+  6       3 
+  7      10 
+  8       3 
+  9       2 
+ 13       4 
+
+Pass 4
+             Gap  Score    
+Merge:(0)    0    0.0 5.7 (4,1:864)  186  4.01 1.82 2.19  ym40c11.r1      212   485 (16)  C ov38c02.x1   (5)   648   376  
+Rjct: (2)   25  -36.8 3.9 (10,5:868)  112  6.63 1.02 3.57  ye68e06.r1      256   451 (7)  C ov38c02.x1   (5)   648   458  
+  Worst pair: offset 9 
+LLR breakdown: discreps: -43.8 (<20 part: -1.1 (#=5), >20:-42.7 (#=13); in HQ: -43.8, out HQ 0.0), match: 8.5  trail: -1.5  lead: 0.0  total: -36.8  326  1.55 3.11 0.00  ze84d11.r1      152   537 (20)    ym40c11.r1       13   410 (91) *
+Rjct: (2)   25  -36.8 0.3 (10,5:860)  222  5.87 4.00 2.13  zd59c11.r1       57   431 (118)    yo47d11.r1      206   587 (64) *
+  Worst pair: offset 8 
+LLR breakdown: discreps: -43.8 (<20 part: -1.1 (#=5), >20:-42.7 (#=13); in HQ: -43.8, out HQ 0.0), match: 8.5  trail: -1.5  lead: 0.0  total: -36.8  326  1.55 3.11 0.00  ze84d11.r1      152   537 (20)    ym40c11.r1       13   410 (91) *
+
+Pass: 4
+#reads  #contigs (not counting singlets)
+    5      1
+   10      1
+
+N.B. Following not based on all pairs!!
+
+Lowest   # merges  # failures
+LLR score
+0.0       1        0
+-36.8       0        2
+
+Gap   # merges  # failures
+ size
+ 0       1        0
+25       0        2
+
+Offset
+  0      10 
+  1      15 
+  2       3 
+  3       1 
+  5       1 
+  6       2 
+  7      12 
+  8       9 
+  9       2 
+ 13       1 
+ 21       1 
+
+Read equivalence class histogram:
+    5    1
+   10    1
+
+Chimera merges: 
+
+
+Contig 2:  5196 nodes
+
+ 585 str. conn. components
+
+Path
+    1    qd90b11.x1        1 
+   71    qc63h08.x1       63 
+  275    qd90b11.x1      275 
+  277    qc63h08.x1      269 
+  289    qd90b11.x1      288 
+  367    qc63h08.x1      359 
+  422  C ze84d11.r1      553 
+  423  C yj03b11.r1      396 
+  468  C ye68e06.r1      425 
+  472  C yj03b11.r1      347 
+  603  C zd59c11.r1      410 
+  609    qc63h08.x1      600 
+  614  C zd59c11.r1      399 
+  627    qf92b02.x1      633 
+  631  C zd59c11.r1      382 
+  645  C yj03b11.r1      173 
+  646  C zd59c11.r1      367 
+  648  C ze84d11.r1      327 
+  797  C ye68e06.r1       94 
+  801  C zd59c11.r1      212 
+  880  C ze84d11.r1       95 
+  884  C zd59c11.r1      129 
+  896  C ze84d11.r1       79 
+  912  C zd59c11.r1      101 
+Contig length: old 1054, new 1012
+
+Contig 1:  962 nodes
+
+ 268 str. conn. components
+
+Path
+    1    yo47d11.r1        1 
+  340    ym25a09.r1       14 
+  348    yg69d01.r1       24 
+  352    ym25a09.r1       26 
+  528    yg69d01.r1      205 
+  621  C ov38c02.x1      567 
+  629    yg69d01.r1      306 
+  651  C ov38c02.x1      537 
+  678    ym25a09.r1      353 
+  682  C ov38c02.x1      506 
+  686    ym25a09.r1      361 
+  693    ym40c11.r1      369 
+  695  C ov38c02.x1      493 
+  720    ym25a09.r1      396 
+  724    yg69d01.r1      407 
+  727  C ov38c02.x1      461 
+  742    ym40c11.r1      418 
+  758  C ov38c02.x1      430 
+  780    ym40c11.r1      454 
+  784  C ov38c02.x1      404 
+Contig length: old 1186, new 1187
+
+Contig length: old 1012, new 910
+New start: 66 
+
+Contig length: old 1187, new 1121
+New start: 0 
+I Change at: 519; seg lengths: entry 1, contig 0
+I Change at: 780; seg lengths: entry 1, contig 0
+
+Contig 1 unpadded => padded conversion:
+  200 =>   200
+  400 =>   401
+  600 =>   604
+  800 =>   822
+ 1000 =>  1023
+
+Contig 2 unpadded => padded conversion:
+  200 =>   200
+  400 =>   405
+  600 =>   612
+  800 =>   814

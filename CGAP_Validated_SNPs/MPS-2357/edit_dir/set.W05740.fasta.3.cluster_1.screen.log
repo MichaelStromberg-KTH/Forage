@@ -1,0 +1,136 @@
+No. words: 13617; after pruning: 12580
+
+
+Histogram of relative pair offsets, for read pairs with multiple alignments:
+
+Pass 1
+             Gap  Score    
+Merge:(0)    0    0.0 11.2 (1,1:-1)  446  2.32 1.16 0.00  zd64b04.s1       62   578 (57)    zt97d10.s1       63   585 (3) *
+Merge:(0)    0    0.0 9.8 (2,1:29)  435  2.07 0.21 0.21  zt97d10.s1       63   546 (42)    yl10h11.s1       33   516 (1) *
+Merge:(0)    0    0.0 9.8 (1,1:-19)  421  2.30 0.42 0.21  yv79e12.s1       34   512 (11)    yz94a12.s1       53   532 (2) *
+Merge:(0)    2    0.0 9.8 (2,1:-27)  420  2.52 0.42 0.00  yv79e12.s1       36   512 (11)    zk86e01.s1       63   541 (10) *
+Merge:(0)    0    0.0 9.8 (3,1:-24)  402  3.62 0.21 0.00  yz94a12.s1       59   528 (6)    zn36h04.s1       64   534 (109) *
+Merge:(0)    0    0.0 9.8 (4,1:-17)  398  2.90 0.62 0.83  yv79e12.s1       39   521 (2)    zl21e01.s1       59   540 (370) *
+Merge:(0)    2    0.0 9.5 (3,1:7)  403  2.49 1.24 0.41  yl10h11.s1       35   516 (1)    yx65a03.s1       56   541 (157) *
+Merge:(0)    0    0.0 9.5 (5,1:3)  379  0.89 2.22 0.22  zk86e01.s1       63   512 (39)    yg49h01.s1       31   489 (17) *
+Merge:(0)    0    0.0 9.4 (4,1:32)  394  3.61 0.42 0.21  zd64b04.s1       64   534 (101)    yo66e09.s1       31   502 (8) *
+Merge:(0)    0    0.0 9.3 (5,1:688)  345  2.69 1.57 1.57  yx65a03.s1      169   614 (84)  C yo66e09.r1   (3)   512    67 *
+Merge:(0)    0    0.0 8.8 (6,1:28)  374  2.91 0.45 0.67  yo66e09.s1       31   477 (33)    yj87a02.s1       38   483 (9) *
+Merge:(0)    0    0.0 8.8 (7,1:14)  350  2.10 2.10 0.47  yo66e09.s1       65   492 (18)    yr84e03.s1       83   517 (31)  
+Merge:(0)    0    0.0 8.7 (1,1:45)  383  0.25 0.25 0.25  yr84e03.r1      110   505 (2)    zx64h05.r1       65   460 (121) *
+Merge:(0)    0    0.0 8.5 (6,1:4)  322  3.23 1.84 1.38  yv79e12.s1       30   463 (60)    yh79h10.s1       29   464 (47) *
+Merge:(0)    0    0.0 8.4 (2,1:179)  359  1.30 0.52 0.00  zx64h05.r1      191   575 (6)    ze74c09.r1       56   442 (96) *
+Merge:(0)    0    0.0 8.3 (8,3:986)  276  1.76 4.27 1.51  yx65a03.s1      265   662 (36)  C ze74c09.r1   (0)   538   130 *
+Merge:(0)    0    0.0 8.1 (11,7:24)  456  3.45 1.81 1.15  yx65a03.s1       58   665 (33)    zl21e01.s1       59   670 (240) *
+Merge:(0)    0    0.0 8.0 (18,1:18)  344  1.27 0.76 0.51  zt97d10.s1       70   462 (126)    yq58g09.s1       49   442 (46) *
+Merge:(0)    0    0.0 8.0 (19,1:20)  309  2.15 1.61 0.27  zd64b04.s1       86   457 (178)    yu75c09.s1       65   441 (77)  
+Merge:(0)    0   -0.9 7.3 (20,1:563)  314  0.60 0.60 0.30  yo66e09.s1      149   483 (27)  C zr82c03.r1   (0)   385    50 *
+Merge:(0)    0    0.0 5.6 (21,1:19)  256  2.04 0.68 0.00  yu75c09.s1       29   322 (196)    yr22g11.s1       29   324 (0) *
+
+Pass: 1
+#reads  #contigs (not counting singlets)
+    1      3
+   22      1
+
+N.B. Following not based on all pairs!!
+
+Lowest   # merges  # failures
+LLR score
+0.0      20        0
+-0.9       1        0
+
+Gap   # merges  # failures
+ size
+ 0      19        0
+ 2       2        0
+
+Offset
+  0     125 
+  1      75 
+  2      13 
+  3       1 
+
+Pass 3
+             Gap  Score    
+Merge:(0)    0    0.0 10.9 (22,1:19)  492  1.39 1.04 0.87  yx65a03.s1       56   631 (67)    yw95b02.s1       44   620 (2) *
+Merge:(0)    0    0.0 8.4 (23,1:1021)  376  2.34 0.47 0.47  yr84e03.r1       52   478 (29)    yz29c09.r1       87   513 (1) *
+Merge:(0)    0   -0.5 7.8 (24,1:-6)  348  1.53 0.00 0.51  yo66e09.s1       30   420 (90)    za25c08.s1       70   458 (1) *
+
+Pass: 3
+#reads  #contigs (not counting singlets)
+   25      1
+
+N.B. Following not based on all pairs!!
+
+Lowest   # merges  # failures
+LLR score
+0.0       2        0
+-0.5       1        0
+
+Gap   # merges  # failures
+ size
+ 0       3        0
+
+Offset
+  0      27 
+  1      21 
+  2       5 
+
+Pass 4
+             Gap  Score    
+
+Pass: 4
+#reads  #contigs (not counting singlets)
+   25      1
+
+N.B. Following not based on all pairs!!
+
+Lowest   # merges  # failures
+LLR score
+
+Gap   # merges  # failures
+ size
+
+Offset
+
+Read equivalence class histogram:
+   25    1
+
+Chimera merges: 
+
+
+Contig 1:  38942 nodes
+
+ 800 str. conn. components
+
+Path
+    1    za25c08.s1        1 
+   55    yr22g11.s1       28 
+   68    za25c08.s1       68 
+   90    zt97d10.s1       85 
+   93    zl21e01.s1       80 
+  207  C zr82c03.r1      366 
+  226    yo66e09.s1      188 
+  471  C zx64h05.r1      479 
+  605  C yo66e09.r1       91 
+  610  C zx64h05.r1      340 
+  622  C yr84e03.r1      373 
+  648    zl21e01.s1      632 
+  658  C yz29c09.r1      373 
+  712  C ze74c09.r1      103 
+  740  C yz29c09.r1      291 
+  820  C zx64h05.r1      130 
+  878  C yz29c09.r1      153 
+  918  C yr84e03.r1       77 
+  931  C yz29c09.r1      100 
+  941  C yr84e03.r1       55 
+Contig length: old 1028, new 995
+
+Contig length: old 995, new 900
+New start: 51 
+
+Contig 1 unpadded => padded conversion:
+  200 =>   216
+  400 =>   430
+  600 =>   654
+  800 =>   854

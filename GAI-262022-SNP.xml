@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ForageAnalysis>
+   <snp contig="Contig1" locus="38" unpadded_locus="38">
+      <psnp>1</psnp>
+      <pvar>1</pvar>
+      <var>W</var>
+      <obsvar>W</obsvar>
+      <depth>19</depth>
+      <quality maj="49" min1="37" min2="0" min3="0"></quality>
+      <leftflank>CAACCATTTTTTTTTTTTTTTTTTTTTTTTTT</leftflank>
+      <rightflank>TAAAACAGTAGAAACAAGGTTGACTTTATTCC</rightflank>
+      <frequency maj="0.789474" min1="0.210526" min2="0" min3="0">frequent</frequency>
+   </snp>
+   <snp contig="Contig1" locus="512" unpadded_locus="469">
+      <psnp>0.990919</psnp>
+      <pvar>0.990913</pvar>
+      <var>R</var>
+      <obsvar>R</obsvar>
+      <depth>15</depth>
+      <quality maj="34" min1="45" min2="0" min3="0"></quality>
+      <leftflank>CTAGAGGTTAAAAATGACTGAGAAAATAGACA</leftflank>
+      <rightflank>TTCTTCAGGAAAACACCTTCTTTGGACTCACA</rightflank>
+      <frequency maj="0.8" min1="0.2" min2="0" min3="0">frequent</frequency>
+   </snp>
+   <snp contig="Contig1" locus="783" unpadded_locus="734">
+      <psnp>0.560352</psnp>
+      <pvar>0.560309</pvar>
+      <var>Y</var>
+      <obsvar>Y</obsvar>
+      <depth>4</depth>
+      <quality maj="41" min1="33" min2="0" min3="0"></quality>
+      <leftflank>TTTTGGGATAACCTGGATCCATAGATCGTTTA</leftflank>
+      <rightflank>ATTCATCATACCTCCAGTATTTGTTAGCAACA</rightflank>
+      <frequency maj="0.75" min1="0.25" min2="0" min3="0">frequent</frequency>
+   </snp>
+</ForageAnalysis>

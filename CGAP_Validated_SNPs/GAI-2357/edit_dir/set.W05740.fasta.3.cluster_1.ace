@@ -1,0 +1,1158 @@
+
+
+DNA Contig1
+tgacggccagtgccaagctaaaattaaccctcactaaag*ggaataagct
+tgcgaccgccttttttttttttttTTtttttttttttttttta*aGA*GT
+TCATAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCC
+CTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAA
+GCCCAAGAGAGGGGCAGAACGTAGT*TCTTG*ATTT*AAAAAAACA*GAA
+A*GGGGAGGAGGATGACCTTAACTACAAATAATATTCCACTGCAACATTA
+TTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGA
+TGGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAAT
+GCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*AC
+ACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GTTT*CATCGAG
+TC*T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*GG*TAG*ACCATG
+AAG*TTGATTCCCGCCTCTAAGCATCTCTGTG*CC*AGCACTCGTCCTA*
+TACTCTC*ACAAGCCACCACATTTCTGGTACTATAAAGGTGCTTTTTAAT
+AGCCCACT*CACGAGTGGAGGCCGAAACC*ACAACCTTGCCATTCTGATG
+CTCCACAAGTGCTTCTACATGATGCTGAGTCCTTATAACTCGCAACCTGT
+GCCAGAACTCACGGGAGGGAAACACCGTCCGCCAGCCCCGCTCTTTCCTG
+GCTACAGATAAAAGCTCCAGGTTCCGGGGGTTCCGGTTGGTGAATTCTGG
+GGCGACAGCTTCATTTTCCACAGGgtcCACTTCAGGTTTCGCTGCCGGCT
+CGGAGCTGGTTGACAGGGCTGCGAACCTGCACCCAGGGTTCCTGCAAACC
+GAGAACCCCCAAAACTGCGACCGAAGCGCCatcgCTGAGACGATCTCGGA
+AAagcctCGCCTCTTTTtccgcctcgtgccgaatgtcctgctcgaggccg
+aattccctatagtgagtcgtattaatcg
+
+
+BaseQuality Contig1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 9 9 9 13 13 13 13 13 13 13 13 13 13 13 49 49 11 11 10 10 10 10 3 3 3 3 3 3 3 3 3 3 3 4 34 33 33 33 33 33 33
+ 33 33 33 33 33 33 27 27 37 41 45 45 45 45 41 45 45 45 45 45 45 49 45 45 45 49 49 49 49 45 45 45 41 45 38 40 37 40 37 37 41 41 41 41 41 41 51 51 51 51
+ 51 51 51 45 45 45 45 45 45 51 51 51 51 51 51 51 51 51 45 45 41 41 45 45 45 45 51 51 51 51 51 51 51 51 51 51 51 42 42 42 42 51 51 51 68 68 68 81 81 84
+ 81 81 81 82 83 83 79 79 79 74 74 74 65 24 24 24 69 69 43 43 43 43 59 59 59 59 59 51 26 26 51 51 51 51 51 51 45 36 36 39 39 39 39 41 41 41 41 41 51 51
+ 51 51 51 45 45 65 66 66 66 76 72 74 74 81 81 81 85 81 81 81 81 81 81 85 79 79 79 88 88 84 84 84 84 84 84 90 76 78 78 84 69 69 69 66 72 75 75 81 70 70
+ 70 70 89 88 88 75 75 79 69 79 65 71 75 78 78 85 84 85 85 88 90 77 64 74 65 65 65 69 79 88 85 88 88 85 79 79 75 75 75 71 68 79 83 78 78 84 84 84 68 68
+ 66 66 77 75 69 69 69 69 69 69 78 78 82 82 78 84 82 78 81 82 77 82 70 70 70 82 90 85 85 82 90 90 78 78 78 74 71 71 71 71 70 70 70 69 69 69 69 77 78 66
+ 66 66 66 60 60 57 57 57 73 86 74 66 66 67 61 63 43 43 75 74 63 63 63 63 69 67 67 69 72 72 72 76 76 90 90 88 75 72 72 71 71 71 68 68 68 63 63 63 63 63
+ 63 67 64 64 64 63 63 72 60 60 61 61 61 64 64 64 71 64 64 64 64 64 59 59 57 57 55 55 54 54 54 54 51 51 49 49 48 48 48 48 50 50 50 50 50 50 50 48 48 50
+ 53 54 54 54 59 53 53 51 51 51 50 50 50 50 61 66 76 63 63 61 59 59 59 59 60 60 60 64 64 65 60 60 60 60 67 67 67 67 70 70 70 50 50 50 50 51 51 53 63 63
+ 63 52 52 52 53 53 53 53 59 63 63 64 59 59 54 54 54 54 61 54 54 52 52 52 52 69 66 49 49 49 49 48 48 48 49 49 49 49 49 67 65 51 47 47 47 47 51 45 45 45
+ 53 57 63 43 43 41 37 37 28 28 28 28 51 31 31 52 53 44 44 44 44 52 41 24 24 24 24 41 30 28 28 28 28 34 40 35 35 35 35 41 41 39 34 33 33 33 33 41 54 54
+ 54 54 49 49 49 49 43 43 43 43 39 32 32 32 32 39 36 34 34 34 34 34 34 34 39 30 30 30 35 25 25 25 25 33 39 33 33 33 33 33 33 33 33 39 39 34 34 34 34 34
+ 39 44 34 34 34 34 34 34 34 34 34 35 35 35 35 45 39 32 32 32 32 34 34 29 29 29 51 45 40 39 39 39 40 43 43 39 30 30 30 32 33 37 39 39 39 39 51 51 51 51
+ 51 36 36 36 36 39 39 39 37 37 37 37 37 37 41 41 41 41 41 41 39 45 39 39 39 39 39 39 51 45 45 39 41 45 45 39 39 39 39 39 39 39 37 37 37 37 37 37 37 45
+ 45 45 40 37 37 37 37 40 40 37 37 37 37 37 41 51 51 51 51 51 51 45 45 45 45 37 37 37 13 13 13 41 41 49 45 45 37 37 37 37 32 32 33 33 33 35 36 45 45 41
+ 41 41 41 41 41 37 37 41 41 41 41 41 37 37 37 37 37 40 37 37 37 37 40 40 40 37 37 40 40 40 40 45 41 41 40 40 49 37 44 34 37 37 37 45 34 35 35 34 34 34
+ 45 45 38 37 37 37 34 33 37 45 45 45 45 45 44 45 45 38 34 34 34 34 34 34 34 37 27 27 27 30 28 30 23 25 13 13 13 13 21 32 32 34 34 34 31 30 24 32 24 24
+ 24 24 25 32 27 21 13 14 13 18 18 30 30 30 30 30 34 34 34 34 31 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Sequence Contig1
+Assembled_from  za25c08.s1  0  461
+Assembled_from* za25c08.s1  0  487
+Assembled_from  zk86e01.s1  4  556
+Assembled_from* zk86e01.s1  4  598
+Assembled_from  zt97d10.s1  1  595
+Assembled_from* zt97d10.s1  1  639
+Assembled_from  zn36h04.s1  9  653
+Assembled_from* zn36h04.s1  9  699
+Assembled_from  zd64b04.s1  2  649
+Assembled_from* zd64b04.s1  2  695
+Assembled_from  yz94a12.s1  3  548
+Assembled_from* yz94a12.s1  3  590
+Assembled_from  zl21e01.s1  1  930
+Assembled_from* zl21e01.s1  1  976
+Assembled_from  yx65a03.s1  4  729
+Assembled_from* yx65a03.s1  4  775
+Assembled_from  yr84e03.s1  24  563
+Assembled_from* yr84e03.s1  24  606
+Assembled_from  yw95b02.s1  29  653
+Assembled_from* yw95b02.s1  29  699
+Assembled_from  yr22g11.s1  28  351
+Assembled_from* yr22g11.s1  28  362
+Assembled_from  yq58g09.s1  29  515
+Assembled_from* yq58g09.s1  29  555
+Assembled_from  yu75c09.s1  30  545
+Assembled_from* yu75c09.s1  30  587
+Assembled_from  yv79e12.s1  33  558
+Assembled_from* yv79e12.s1  33  601
+Assembled_from  yg49h01.s1  38  534
+Assembled_from* yg49h01.s1  38  574
+Assembled_from  yj87a02.s1  35  526
+Assembled_from* yj87a02.s1  35  566
+Assembled_from  yh79h10.s1  38  542
+Assembled_from* yh79h10.s1  38  582
+Assembled_from  yl10h11.s1  38  554
+Assembled_from* yl10h11.s1  38  596
+Assembled_from  yo66e09.s1  42  550
+Assembled_from* yo66e09.s1  43  592
+Assembled_from  yo66e09.r1.comp  182  697
+Assembled_from* yo66e09.r1.comp  187  743
+Assembled_from  zr82c03.r1.comp  190  572
+Assembled_from* zr82c03.r1.comp  195  616
+Assembled_from  ze74c09.r1.comp  281  816
+Assembled_from* ze74c09.r1.comp  291  862
+Assembled_from  zx64h05.r1.comp  371  951
+Assembled_from* zx64h05.r1.comp  383  997
+Assembled_from  yr84e03.r1.comp  490  997
+Assembled_from* yr84e03.r1.comp  524  1043
+Assembled_from  yz29c09.r1.comp  519  1032
+Assembled_from* yz29c09.r1.comp  559  1078
+Base_segment  947 1032  yz29c09.r1.comp  429 514
+Base_segment* 993 1078  yz29c09.r1.comp  435 520
+Base_segment  940 946  yr84e03.r1.comp  450 456
+Base_segment* 986 992  yr84e03.r1.comp  463 469
+Base_segment  933 939  yz29c09.r1.comp  415 421
+Base_segment* 979 985  yz29c09.r1.comp  421 427
+Base_segment  909 932  yr84e03.r1.comp  420 443
+Base_segment* 955 978  yr84e03.r1.comp  432 455
+Base_segment  908 908  yz29c09.r1.comp  390 390
+Base_segment* 954 954  yz29c09.r1.comp  396 396
+Base_segment  907 907  yr84e03.r1.comp  418 418
+Base_segment* 953 953  yr84e03.r1.comp  430 430
+Base_segment  906 906  yz29c09.r1.comp  388 388
+Base_segment* 952 952  yz29c09.r1.comp  394 394
+Base_segment  905 905  yr84e03.r1.comp  416 416
+Base_segment* 951 951  yr84e03.r1.comp  428 428
+Base_segment  904 904  yz29c09.r1.comp  386 386
+Base_segment* 950 950  yz29c09.r1.comp  392 392
+Base_segment  898 903  yr84e03.r1.comp  409 414
+Base_segment* 944 949  yr84e03.r1.comp  421 426
+Base_segment  896 897  yz29c09.r1.comp  378 379
+Base_segment* 942 943  yz29c09.r1.comp  384 385
+Base_segment  890 895  yr84e03.r1.comp  401 406
+Base_segment* 936 941  yr84e03.r1.comp  413 418
+Base_segment  888 889  yz29c09.r1.comp  370 371
+Base_segment* 934 935  yz29c09.r1.comp  376 377
+Base_segment  886 887  zx64h05.r1.comp  516 517
+Base_segment* 932 933  zx64h05.r1.comp  550 551
+Base_segment  868 885  yr84e03.r1.comp  379 396
+Base_segment* 914 931  yr84e03.r1.comp  391 408
+Base_segment  867 867  yz29c09.r1.comp  349 349
+Base_segment* 913 913  yz29c09.r1.comp  355 355
+Base_segment  847 866  yr84e03.r1.comp  358 377
+Base_segment* 893 912  yr84e03.r1.comp  370 389
+Base_segment  838 846  zx64h05.r1.comp  468 476
+Base_segment* 884 892  zx64h05.r1.comp  502 510
+Base_segment  837 837  yz29c09.r1.comp  319 319
+Base_segment* 883 883  yz29c09.r1.comp  325 325
+Base_segment  836 836  zx64h05.r1.comp  466 466
+Base_segment* 882 882  zx64h05.r1.comp  500 500
+Base_segment  835 835  yr84e03.r1.comp  346 346
+Base_segment* 881 881  yr84e03.r1.comp  358 358
+Base_segment  834 834  zx64h05.r1.comp  464 464
+Base_segment* 880 880  zx64h05.r1.comp  498 498
+Base_segment  832 833  yr84e03.r1.comp  343 344
+Base_segment* 878 879  yr84e03.r1.comp  355 356
+Base_segment  827 831  zx64h05.r1.comp  457 461
+Base_segment* 873 877  zx64h05.r1.comp  491 495
+Base_segment  826 826  yz29c09.r1.comp  308 308
+Base_segment* 872 872  yz29c09.r1.comp  314 314
+Base_segment  815 825  zx64h05.r1.comp  445 455
+Base_segment* 861 871  zx64h05.r1.comp  479 489
+Base_segment  814 814  yr84e03.r1.comp  325 325
+Base_segment* 860 860  yr84e03.r1.comp  337 337
+Base_segment  813 813  zx64h05.r1.comp  443 443
+Base_segment* 859 859  zx64h05.r1.comp  477 477
+Base_segment  804 812  yr84e03.r1.comp  315 323
+Base_segment* 850 858  yr84e03.r1.comp  327 335
+Base_segment  795 803  zx64h05.r1.comp  425 433
+Base_segment* 841 849  zx64h05.r1.comp  459 467
+Base_segment  794 794  yr84e03.r1.comp  305 305
+Base_segment* 840 840  yr84e03.r1.comp  317 317
+Base_segment  786 793  zx64h05.r1.comp  416 423
+Base_segment* 832 839  zx64h05.r1.comp  450 457
+Base_segment  784 785  yr84e03.r1.comp  295 296
+Base_segment* 830 831  yr84e03.r1.comp  307 308
+Base_segment  764 783  zx64h05.r1.comp  394 413
+Base_segment* 810 829  zx64h05.r1.comp  428 447
+Base_segment  759 763  yz29c09.r1.comp  241 245
+Base_segment* 805 809  yz29c09.r1.comp  247 251
+Base_segment  743 758  zx64h05.r1.comp  373 388
+Base_segment* 789 804  zx64h05.r1.comp  407 422
+Base_segment  739 742  yr84e03.r1.comp  250 253
+Base_segment* 785 788  yr84e03.r1.comp  262 265
+Base_segment  727 738  zx64h05.r1.comp  357 368
+Base_segment* 773 784  zx64h05.r1.comp  391 402
+Base_segment  725 726  yr84e03.r1.comp  236 237
+Base_segment* 771 772  yr84e03.r1.comp  248 249
+Base_segment  721 724  ze74c09.r1.comp  443 446
+Base_segment* 767 770  ze74c09.r1.comp  477 480
+Base_segment  712 720  zx64h05.r1.comp  342 350
+Base_segment* 758 766  zx64h05.r1.comp  376 384
+Base_segment  707 711  ze74c09.r1.comp  429 433
+Base_segment* 753 757  ze74c09.r1.comp  463 467
+Base_segment  703 706  zx64h05.r1.comp  333 336
+Base_segment* 749 752  zx64h05.r1.comp  367 370
+Base_segment  702 702  yr84e03.r1.comp  213 213
+Base_segment* 748 748  yr84e03.r1.comp  225 225
+Base_segment  700 701  zx64h05.r1.comp  330 331
+Base_segment* 746 747  zx64h05.r1.comp  364 365
+Base_segment  697 699  ze74c09.r1.comp  419 421
+Base_segment* 743 745  ze74c09.r1.comp  453 455
+Base_segment  693 696  zx64h05.r1.comp  323 326
+Base_segment* 739 742  zx64h05.r1.comp  357 360
+Base_segment  692 692  ze74c09.r1.comp  414 414
+Base_segment* 738 738  ze74c09.r1.comp  448 448
+Base_segment  688 691  zx64h05.r1.comp  318 321
+Base_segment* 734 737  zx64h05.r1.comp  352 355
+Base_segment  687 687  ze74c09.r1.comp  409 409
+Base_segment* 733 733  ze74c09.r1.comp  443 443
+Base_segment  685 686  zx64h05.r1.comp  315 316
+Base_segment* 731 732  zx64h05.r1.comp  349 350
+Base_segment  683 684  ze74c09.r1.comp  405 406
+Base_segment* 729 730  ze74c09.r1.comp  439 440
+Base_segment  682 682  zx64h05.r1.comp  312 312
+Base_segment* 728 728  zx64h05.r1.comp  346 346
+Base_segment  679 681  ze74c09.r1.comp  401 403
+Base_segment* 725 727  ze74c09.r1.comp  435 437
+Base_segment  673 678  zx64h05.r1.comp  303 308
+Base_segment* 719 724  zx64h05.r1.comp  337 342
+Base_segment  669 672  ze74c09.r1.comp  391 394
+Base_segment* 715 718  ze74c09.r1.comp  425 428
+Base_segment  661 668  zx64h05.r1.comp  291 298
+Base_segment* 707 714  zx64h05.r1.comp  325 332
+Base_segment  658 660  ze74c09.r1.comp  380 382
+Base_segment* 704 706  ze74c09.r1.comp  414 416
+Base_segment  657 657  zx64h05.r1.comp  287 287
+Base_segment* 703 703  zx64h05.r1.comp  321 321
+Base_segment  653 656  ze74c09.r1.comp  375 378
+Base_segment* 699 702  ze74c09.r1.comp  409 412
+Base_segment  649 652  zx64h05.r1.comp  279 282
+Base_segment* 695 698  zx64h05.r1.comp  313 316
+Base_segment  647 648  ze74c09.r1.comp  369 370
+Base_segment* 693 694  ze74c09.r1.comp  403 404
+Base_segment  642 646  zx64h05.r1.comp  272 276
+Base_segment* 688 692  zx64h05.r1.comp  306 310
+Base_segment  641 641  yo66e09.r1.comp  459 459
+Base_segment* 687 687  yo66e09.r1.comp  501 501
+Base_segment  640 640  ze74c09.r1.comp  362 362
+Base_segment* 686 686  ze74c09.r1.comp  396 396
+Base_segment  610 639  zx64h05.r1.comp  240 269
+Base_segment* 654 685  zx64h05.r1.comp  272 303
+Base_segment  608 609  ze74c09.r1.comp  330 331
+Base_segment* 652 653  ze74c09.r1.comp  362 363
+Base_segment  606 607  zx64h05.r1.comp  236 237
+Base_segment* 650 651  zx64h05.r1.comp  268 269
+Base_segment  605 605  yz29c09.r1.comp  87 87
+Base_segment* 649 649  yz29c09.r1.comp  91 91
+Base_segment  603 604  ze74c09.r1.comp  325 326
+Base_segment* 647 648  ze74c09.r1.comp  357 358
+Base_segment  602 602  zx64h05.r1.comp  232 232
+Base_segment* 646 646  zx64h05.r1.comp  264 264
+Base_segment  597 601  yo66e09.r1.comp  415 419
+Base_segment* 641 645  yo66e09.r1.comp  455 459
+Base_segment  593 596  zx64h05.r1.comp  223 226
+Base_segment* 637 640  zx64h05.r1.comp  255 258
+Base_segment  592 592  yo66e09.r1.comp  410 410
+Base_segment* 636 636  yo66e09.r1.comp  450 450
+Base_segment  591 591  ze74c09.r1.comp  313 313
+Base_segment* 635 635  ze74c09.r1.comp  345 345
+Base_segment  576 590  yo66e09.r1.comp  394 408
+Base_segment* 620 634  yo66e09.r1.comp  434 448
+Base_segment  567 575  zx64h05.r1.comp  197 205
+Base_segment* 611 619  zx64h05.r1.comp  229 237
+Base_segment  545 566  yo66e09.r1.comp  363 384
+Base_segment* 587 610  yo66e09.r1.comp  401 424
+Base_segment  538 544  zx64h05.r1.comp  168 174
+Base_segment* 578 585  zx64h05.r1.comp  196 203
+Base_segment  534 537  yo66e09.r1.comp  352 355
+Base_segment* 574 577  yo66e09.r1.comp  388 391
+Base_segment  532 533  zx64h05.r1.comp  162 163
+Base_segment* 572 573  zx64h05.r1.comp  190 191
+Base_segment  527 531  yo66e09.r1.comp  345 349
+Base_segment* 567 571  yo66e09.r1.comp  381 385
+Base_segment  524 526  zx64h05.r1.comp  154 156
+Base_segment* 564 566  zx64h05.r1.comp  182 184
+Base_segment  521 523  yo66e09.r1.comp  339 341
+Base_segment* 561 563  yo66e09.r1.comp  375 377
+Base_segment  518 520  ze74c09.r1.comp  238 240
+Base_segment* 558 560  ze74c09.r1.comp  268 270
+Base_segment  516 517  yw95b02.s1  488 489
+Base_segment* 556 557  yw95b02.s1  528 529
+Base_segment  505 515  yo66e09.r1.comp  323 333
+Base_segment* 543 555  yo66e09.r1.comp  357 369
+Base_segment  501 504  ze74c09.r1.comp  221 224
+Base_segment* 538 542  ze74c09.r1.comp  248 252
+Base_segment  498 500  zx64h05.r1.comp  128 130
+Base_segment* 533 536  zx64h05.r1.comp  151 154
+Base_segment  494 497  yo66e09.r1.comp  312 315
+Base_segment* 529 532  yo66e09.r1.comp  343 346
+Base_segment  493 493  ze74c09.r1.comp  213 213
+Base_segment* 528 528  ze74c09.r1.comp  238 238
+Base_segment  491 492  zx64h05.r1.comp  121 122
+Base_segment* 526 527  zx64h05.r1.comp  144 145
+Base_segment  490 490  ze74c09.r1.comp  210 210
+Base_segment* 524 524  ze74c09.r1.comp  234 234
+Base_segment  487 489  yz94a12.s1  474 476
+Base_segment* 521 523  yz94a12.s1  519 521
+Base_segment  483 486  yw95b02.s1  455 458
+Base_segment* 515 520  yw95b02.s1  487 492
+Base_segment  480 482  zt97d10.s1  473 475
+Base_segment* 511 514  zt97d10.s1  511 514
+Base_segment  479 479  zx64h05.r1.comp  109 109
+Base_segment* 509 509  zx64h05.r1.comp  127 127
+Base_segment  474 478  zk86e01.s1  469 473
+Base_segment* 502 508  zk86e01.s1  499 505
+Base_segment  473 473  yo66e09.r1.comp  290 290
+Base_segment* 501 501  yo66e09.r1.comp  315 315
+Base_segment  471 472  zk86e01.s1  466 467
+Base_segment* 499 500  zk86e01.s1  496 497
+Base_segment  467 470  yo66e09.r1.comp  284 287
+Base_segment* 495 498  yo66e09.r1.comp  309 312
+Base_segment  466 466  zk86e01.s1  461 461
+Base_segment* 494 494  zk86e01.s1  491 491
+Base_segment  465 465  zt97d10.s1  458 458
+Base_segment* 492 492  zt97d10.s1  492 492
+Base_segment  462 464  yo66e09.r1.comp  279 281
+Base_segment* 489 491  yo66e09.r1.comp  303 305
+Base_segment  460 461  zk86e01.s1  455 456
+Base_segment* 485 487  zk86e01.s1  482 484
+Base_segment  459 459  yw95b02.s1  431 431
+Base_segment* 483 483  yw95b02.s1  455 455
+Base_segment  458 458  zk86e01.s1  453 453
+Base_segment* 482 482  zk86e01.s1  479 479
+Base_segment  457 457  zt97d10.s1  450 450
+Base_segment* 481 481  zt97d10.s1  481 481
+Base_segment  455 456  zk86e01.s1  450 451
+Base_segment* 478 479  zk86e01.s1  475 476
+Base_segment  454 454  zr82c03.r1.comp  267 267
+Base_segment* 477 477  zr82c03.r1.comp  283 283
+Base_segment  450 453  yo66e09.r1.comp  267 270
+Base_segment* 472 476  yo66e09.r1.comp  286 290
+Base_segment  449 449  zt97d10.s1  442 442
+Base_segment* 471 471  zt97d10.s1  471 471
+Base_segment  438 448  yo66e09.r1.comp  255 265
+Base_segment* 456 470  yo66e09.r1.comp  270 284
+Base_segment  437 437  ze74c09.r1.comp  157 157
+Base_segment* 455 455  ze74c09.r1.comp  165 165
+Base_segment  435 436  zr82c03.r1.comp  248 249
+Base_segment* 453 454  zr82c03.r1.comp  259 260
+Base_segment  420 434  zt97d10.s1  413 427
+Base_segment* 436 452  zt97d10.s1  436 452
+Base_segment  419 419  yo66e09.r1.comp  236 236
+Base_segment* 435 435  yo66e09.r1.comp  249 249
+Base_segment  418 418  zk86e01.s1  413 413
+Base_segment* 434 434  zk86e01.s1  431 431
+Base_segment  417 417  za25c08.s1  415 415
+Base_segment* 432 432  za25c08.s1  433 433
+Base_segment  415 416  zt97d10.s1  408 409
+Base_segment* 430 431  zt97d10.s1  430 431
+Base_segment  412 414  yw95b02.s1  384 386
+Base_segment* 426 429  yw95b02.s1  398 401
+Base_segment  411 411  zk86e01.s1  406 406
+Base_segment* 425 425  zk86e01.s1  422 422
+Base_segment  409 410  yz94a12.s1  396 397
+Base_segment* 423 424  yz94a12.s1  421 422
+Base_segment  405 408  yw95b02.s1  377 380
+Base_segment* 419 422  yw95b02.s1  391 394
+Base_segment  404 404  za25c08.s1  402 402
+Base_segment* 418 418  za25c08.s1  419 419
+Base_segment  403 403  yw95b02.s1  375 375
+Base_segment* 417 417  yw95b02.s1  389 389
+Base_segment  399 402  zt97d10.s1  392 395
+Base_segment* 412 416  zt97d10.s1  412 416
+Base_segment  398 398  yo66e09.s1  358 358
+Base_segment* 411 411  yo66e09.s1  369 369
+Base_segment  397 397  za25c08.s1  395 395
+Base_segment* 410 410  za25c08.s1  411 411
+Base_segment  396 396  zk86e01.s1  391 391
+Base_segment* 409 409  zk86e01.s1  406 406
+Base_segment  395 395  zr82c03.r1.comp  208 208
+Base_segment* 408 408  zr82c03.r1.comp  214 214
+Base_segment  394 394  zt97d10.s1  387 387
+Base_segment* 406 406  zt97d10.s1  406 406
+Base_segment  393 393  zr82c03.r1.comp  206 206
+Base_segment* 405 405  zr82c03.r1.comp  211 211
+Base_segment  390 392  yz94a12.s1  377 379
+Base_segment* 402 404  yz94a12.s1  400 402
+Base_segment  389 389  yw95b02.s1  361 361
+Base_segment* 401 401  yw95b02.s1  373 373
+Base_segment  387 388  yz94a12.s1  374 375
+Base_segment* 399 400  yz94a12.s1  397 398
+Base_segment  386 386  zk86e01.s1  381 381
+Base_segment* 398 398  zk86e01.s1  395 395
+Base_segment  383 385  zt97d10.s1  376 378
+Base_segment* 395 397  zt97d10.s1  395 397
+Base_segment  382 382  zr82c03.r1.comp  195 195
+Base_segment* 394 394  zr82c03.r1.comp  200 200
+Base_segment  381 381  za25c08.s1  379 379
+Base_segment* 393 393  za25c08.s1  394 394
+Base_segment  380 380  zt97d10.s1  373 373
+Base_segment* 392 392  zt97d10.s1  392 392
+Base_segment  378 379  zk86e01.s1  373 374
+Base_segment* 390 391  zk86e01.s1  387 388
+Base_segment  377 377  yj87a02.s1  341 341
+Base_segment* 389 389  yj87a02.s1  355 355
+Base_segment  376 376  zk86e01.s1  371 371
+Base_segment* 388 388  zk86e01.s1  385 385
+Base_segment  375 375  yh79h10.s1  338 338
+Base_segment* 387 387  yh79h10.s1  350 350
+Base_segment  373 374  zk86e01.s1  368 369
+Base_segment* 385 386  zk86e01.s1  382 383
+Base_segment  370 372  yo66e09.r1.comp  187 189
+Base_segment* 382 384  yo66e09.r1.comp  196 198
+Base_segment  365 369  zt97d10.s1  358 362
+Base_segment* 377 381  zt97d10.s1  377 381
+Base_segment  364 364  zk86e01.s1  359 359
+Base_segment* 376 376  zk86e01.s1  373 373
+Base_segment  363 363  zt97d10.s1  356 356
+Base_segment* 375 375  zt97d10.s1  375 375
+Base_segment  362 362  yo66e09.s1  322 322
+Base_segment* 374 374  yo66e09.s1  332 332
+Base_segment  345 361  zt97d10.s1  338 354
+Base_segment* 356 373  zt97d10.s1  356 373
+Base_segment  344 344  yo66e09.r1.comp  161 161
+Base_segment* 355 355  yo66e09.r1.comp  169 169
+Base_segment  342 343  yz94a12.s1  329 330
+Base_segment* 353 354  yz94a12.s1  351 352
+Base_segment  341 341  zk86e01.s1  336 336
+Base_segment* 352 352  zk86e01.s1  349 349
+Base_segment  338 340  yv79e12.s1  306 308
+Base_segment* 349 351  yv79e12.s1  317 319
+Base_segment  336 337  zt97d10.s1  329 330
+Base_segment* 347 348  zt97d10.s1  347 348
+Base_segment  335 335  yv79e12.s1  303 303
+Base_segment* 346 346  yv79e12.s1  314 314
+Base_segment  332 334  yz94a12.s1  319 321
+Base_segment* 343 345  yz94a12.s1  341 343
+Base_segment  325 331  zt97d10.s1  318 324
+Base_segment* 336 342  zt97d10.s1  336 342
+Base_segment  324 324  yw95b02.s1  296 296
+Base_segment* 335 335  yw95b02.s1  307 307
+Base_segment  321 323  zt97d10.s1  314 316
+Base_segment* 332 334  zt97d10.s1  332 334
+Base_segment  320 320  yz94a12.s1  307 307
+Base_segment* 331 331  yz94a12.s1  329 329
+Base_segment  309 319  zt97d10.s1  302 312
+Base_segment* 320 330  zt97d10.s1  320 330
+Base_segment  307 308  yz94a12.s1  294 295
+Base_segment* 318 319  yz94a12.s1  316 317
+Base_segment  306 306  yw95b02.s1  278 278
+Base_segment* 316 316  yw95b02.s1  288 288
+Base_segment  299 305  zt97d10.s1  292 298
+Base_segment* 309 315  zt97d10.s1  309 315
+Base_segment  298 298  yl10h11.s1  261 261
+Base_segment* 308 308  yl10h11.s1  271 271
+Base_segment  296 297  zt97d10.s1  289 290
+Base_segment* 306 307  zt97d10.s1  306 307
+Base_segment  294 295  zk86e01.s1  289 290
+Base_segment* 304 305  zk86e01.s1  301 302
+Base_segment  292 293  zl21e01.s1  277 278
+Base_segment* 302 303  zl21e01.s1  302 303
+Base_segment  291 291  yq58g09.s1  265 265
+Base_segment* 301 301  yq58g09.s1  273 273
+Base_segment  290 290  yv79e12.s1  258 258
+Base_segment* 300 300  yv79e12.s1  268 268
+Base_segment  289 289  yl10h11.s1  252 252
+Base_segment* 299 299  yl10h11.s1  262 262
+Base_segment  288 288  yh79h10.s1  251 251
+Base_segment* 298 298  yh79h10.s1  261 261
+Base_segment  287 287  yo66e09.s1  247 247
+Base_segment* 297 297  yo66e09.s1  255 255
+Base_segment  279 286  zt97d10.s1  272 279
+Base_segment* 289 296  zt97d10.s1  289 296
+Base_segment  278 278  za25c08.s1  276 276
+Base_segment* 288 288  za25c08.s1  289 289
+Base_segment  274 277  zt97d10.s1  267 270
+Base_segment* 284 287  zt97d10.s1  284 287
+Base_segment  271 273  yv79e12.s1  239 241
+Base_segment* 281 283  yv79e12.s1  249 251
+Base_segment  269 270  yj87a02.s1  233 234
+Base_segment* 279 280  yj87a02.s1  245 246
+Base_segment  268 268  yq58g09.s1  242 242
+Base_segment* 278 278  yq58g09.s1  250 250
+Base_segment  267 267  yj87a02.s1  231 231
+Base_segment* 277 277  yj87a02.s1  243 243
+Base_segment  263 266  zt97d10.s1  256 259
+Base_segment* 273 276  zt97d10.s1  273 276
+Base_segment  262 262  yv79e12.s1  230 230
+Base_segment* 272 272  yv79e12.s1  240 240
+Base_segment  256 261  zt97d10.s1  249 254
+Base_segment* 266 271  zt97d10.s1  266 271
+Base_segment  254 255  yh79h10.s1  217 218
+Base_segment* 264 265  yh79h10.s1  227 228
+Base_segment  249 253  zt97d10.s1  242 246
+Base_segment* 259 263  zt97d10.s1  259 263
+Base_segment  247 248  yq58g09.s1  221 222
+Base_segment* 257 258  yq58g09.s1  229 230
+Base_segment  246 246  yj87a02.s1  210 210
+Base_segment* 256 256  yj87a02.s1  222 222
+Base_segment  244 245  yw95b02.s1  216 217
+Base_segment* 254 255  yw95b02.s1  226 227
+Base_segment  243 243  yj87a02.s1  207 207
+Base_segment* 253 253  yj87a02.s1  219 219
+Base_segment  242 242  zt97d10.s1  235 235
+Base_segment* 251 251  zt97d10.s1  251 251
+Base_segment  240 241  yw95b02.s1  212 213
+Base_segment* 249 250  yw95b02.s1  221 222
+Base_segment  239 239  yh79h10.s1  202 202
+Base_segment* 248 248  yh79h10.s1  211 211
+Base_segment  237 238  yw95b02.s1  209 210
+Base_segment* 245 246  yw95b02.s1  217 218
+Base_segment  236 236  yj87a02.s1  200 200
+Base_segment* 244 244  yj87a02.s1  210 210
+Base_segment  235 235  yq58g09.s1  209 209
+Base_segment* 243 243  yq58g09.s1  215 215
+Base_segment  234 234  yj87a02.s1  198 198
+Base_segment* 242 242  yj87a02.s1  208 208
+Base_segment  232 233  yz94a12.s1  219 220
+Base_segment* 240 241  yz94a12.s1  238 239
+Base_segment  231 231  zd64b04.s1  223 223
+Base_segment* 239 239  zd64b04.s1  238 238
+Base_segment  230 230  yv79e12.s1  198 198
+Base_segment* 238 238  yv79e12.s1  206 206
+Base_segment  229 229  yq58g09.s1  203 203
+Base_segment* 236 236  yq58g09.s1  208 208
+Base_segment  226 228  yv79e12.s1  194 196
+Base_segment* 233 235  yv79e12.s1  201 203
+Base_segment  225 225  zt97d10.s1  218 218
+Base_segment* 231 231  zt97d10.s1  231 231
+Base_segment  221 224  zl21e01.s1  206 209
+Base_segment* 227 230  zl21e01.s1  227 230
+Base_segment  220 220  yz94a12.s1  207 207
+Base_segment* 225 225  yz94a12.s1  223 223
+Base_segment  219 219  yq58g09.s1  193 193
+Base_segment* 224 224  yq58g09.s1  196 196
+Base_segment  204 218  zt97d10.s1  197 211
+Base_segment* 209 223  zt97d10.s1  209 223
+Base_segment  201 203  zk86e01.s1  196 198
+Base_segment* 206 208  zk86e01.s1  203 205
+Base_segment  188 200  zt97d10.s1  181 193
+Base_segment* 193 205  zt97d10.s1  193 205
+Base_segment  183 187  zk86e01.s1  178 182
+Base_segment* 188 192  zk86e01.s1  185 189
+Base_segment  180 182  zd64b04.s1  172 174
+Base_segment* 185 187  zd64b04.s1  184 186
+Base_segment  178 179  yz94a12.s1  165 166
+Base_segment* 183 184  yz94a12.s1  181 182
+Base_segment  177 177  zd64b04.s1  169 169
+Base_segment* 182 182  zd64b04.s1  181 181
+Base_segment  171 176  zt97d10.s1  164 169
+Base_segment* 176 181  zt97d10.s1  176 181
+Base_segment  169 170  yh79h10.s1  132 133
+Base_segment* 174 175  yh79h10.s1  137 138
+Base_segment  160 168  zk86e01.s1  155 163
+Base_segment* 165 173  zk86e01.s1  162 170
+Base_segment  159 159  zt97d10.s1  152 152
+Base_segment* 164 164  zt97d10.s1  164 164
+Base_segment  158 158  yr84e03.s1  135 135
+Base_segment* 163 163  yr84e03.s1  140 140
+Base_segment  157 157  yl10h11.s1  119 119
+Base_segment* 162 162  yl10h11.s1  125 125
+Base_segment  156 156  zt97d10.s1  149 149
+Base_segment* 161 161  zt97d10.s1  161 161
+Base_segment  154 155  zn36h04.s1  146 147
+Base_segment* 159 160  zn36h04.s1  151 152
+Base_segment  151 153  zk86e01.s1  146 148
+Base_segment* 156 158  zk86e01.s1  153 155
+Base_segment  150 150  zd64b04.s1  142 142
+Base_segment* 155 155  zd64b04.s1  154 154
+Base_segment  148 149  yz94a12.s1  135 136
+Base_segment* 153 154  yz94a12.s1  151 152
+Base_segment  147 147  zk86e01.s1  142 142
+Base_segment* 152 152  zk86e01.s1  149 149
+Base_segment  146 146  zl21e01.s1  131 131
+Base_segment* 151 151  zl21e01.s1  151 151
+Base_segment  145 145  zd64b04.s1  137 137
+Base_segment* 150 150  zd64b04.s1  149 149
+Base_segment  142 144  zl21e01.s1  127 129
+Base_segment* 147 149  zl21e01.s1  147 149
+Base_segment  141 141  zd64b04.s1  133 133
+Base_segment* 146 146  zd64b04.s1  145 145
+Base_segment  140 140  zl21e01.s1  125 125
+Base_segment* 145 145  zl21e01.s1  145 145
+Base_segment  139 139  zn36h04.s1  131 131
+Base_segment* 144 144  zn36h04.s1  136 136
+Base_segment  138 138  zl21e01.s1  123 123
+Base_segment* 143 143  zl21e01.s1  143 143
+Base_segment  137 137  zd64b04.s1  129 129
+Base_segment* 142 142  zd64b04.s1  141 141
+Base_segment  136 136  za25c08.s1  134 134
+Base_segment* 141 141  za25c08.s1  142 142
+Base_segment  135 135  yq58g09.s1  109 109
+Base_segment* 140 140  yq58g09.s1  112 112
+Base_segment  134 134  yu75c09.s1  105 105
+Base_segment* 139 139  yu75c09.s1  110 110
+Base_segment  132 133  yw95b02.s1  104 105
+Base_segment* 137 138  yw95b02.s1  109 110
+Base_segment  131 131  yg49h01.s1  94 94
+Base_segment* 136 136  yg49h01.s1  99 99
+Base_segment  130 130  zd64b04.s1  122 122
+Base_segment* 135 135  zd64b04.s1  134 134
+Base_segment  125 129  yo66e09.s1  84 88
+Base_segment* 130 134  yo66e09.s1  88 92
+Base_segment  124 124  yh79h10.s1  87 87
+Base_segment* 129 129  yh79h10.s1  92 92
+Base_segment  123 123  zd64b04.s1  115 115
+Base_segment* 128 128  zd64b04.s1  127 127
+Base_segment  122 122  yh79h10.s1  85 85
+Base_segment* 127 127  yh79h10.s1  90 90
+Base_segment  116 121  zt97d10.s1  109 114
+Base_segment* 121 126  zt97d10.s1  121 126
+Base_segment  115 115  zl21e01.s1  100 100
+Base_segment* 120 120  zl21e01.s1  120 120
+Base_segment  114 114  yz94a12.s1  101 101
+Base_segment* 119 119  yz94a12.s1  117 117
+Base_segment  113 113  yx65a03.s1  97 97
+Base_segment* 118 118  yx65a03.s1  115 115
+Base_segment  111 112  yz94a12.s1  98 99
+Base_segment* 116 117  yz94a12.s1  114 115
+Base_segment  110 110  zd64b04.s1  102 102
+Base_segment* 115 115  zd64b04.s1  114 114
+Base_segment  109 109  zl21e01.s1  94 94
+Base_segment* 114 114  zl21e01.s1  114 114
+Base_segment  107 108  zt97d10.s1  100 101
+Base_segment* 111 113  zt97d10.s1  111 113
+Base_segment  105 106  zl21e01.s1  90 91
+Base_segment* 108 110  zl21e01.s1  108 110
+Base_segment  104 104  yu75c09.s1  75 75
+Base_segment* 107 107  yu75c09.s1  78 78
+Base_segment  100 103  zd64b04.s1  92 95
+Base_segment* 103 106  zd64b04.s1  102 105
+Base_segment  97 99  zt97d10.s1  90 92
+Base_segment* 100 102  zt97d10.s1  100 102
+Base_segment  93 96  zl21e01.s1  78 81
+Base_segment* 95 99  zl21e01.s1  95 99
+Base_segment  92 92  zt97d10.s1  85 85
+Base_segment* 93 93  zt97d10.s1  93 93
+Base_segment  90 91  yw95b02.s1  62 63
+Base_segment* 91 92  yw95b02.s1  63 64
+Base_segment  89 89  zn36h04.s1  81 81
+Base_segment* 90 90  zn36h04.s1  82 82
+Base_segment  86 88  yw95b02.s1  58 60
+Base_segment* 87 89  yw95b02.s1  59 61
+Base_segment  84 85  zn36h04.s1  76 77
+Base_segment* 85 86  zn36h04.s1  77 78
+Base_segment  83 83  yw95b02.s1  55 55
+Base_segment* 84 84  yw95b02.s1  56 56
+Base_segment  81 82  yz94a12.s1  73 74
+Base_segment* 82 83  yz94a12.s1  80 81
+Base_segment  80 80  zt97d10.s1  81 81
+Base_segment* 81 81  zt97d10.s1  81 81
+Base_segment  74 79  yz94a12.s1  66 71
+Base_segment* 75 80  yz94a12.s1  73 78
+Base_segment  73 73  zd64b04.s1  67 67
+Base_segment* 74 74  zd64b04.s1  73 73
+Base_segment  72 72  yz94a12.s1  64 64
+Base_segment* 73 73  yz94a12.s1  71 71
+Base_segment  71 71  zk86e01.s1  66 66
+Base_segment* 72 72  zk86e01.s1  69 69
+Base_segment  69 70  zd64b04.s1  63 64
+Base_segment* 70 71  zd64b04.s1  69 70
+Base_segment  67 68  yz94a12.s1  59 60
+Base_segment* 68 69  yz94a12.s1  66 67
+Base_segment  66 66  zt97d10.s1  67 67
+Base_segment* 67 67  zt97d10.s1  67 67
+Base_segment  65 65  yj87a02.s1  39 39
+Base_segment* 66 66  yj87a02.s1  32 32
+Base_segment  55 64  zl21e01.s1  54 63
+Base_segment* 56 65  zl21e01.s1  56 65
+Base_segment  54 54  yr22g11.s1  26 26
+Base_segment* 55 55  yr22g11.s1  28 28
+Base_segment  51 53  yx65a03.s1  47 49
+Base_segment* 52 54  yx65a03.s1  49 51
+Base_segment  50 50  zl21e01.s1  50 50
+Base_segment* 51 51  zl21e01.s1  51 51
+Base_segment  49 49  zd64b04.s1  47 47
+Base_segment* 50 50  zd64b04.s1  49 49
+Base_segment  44 48  yz94a12.s1  40 44
+Base_segment* 45 49  yz94a12.s1  43 47
+Base_segment  42 43  yx65a03.s1  38 39
+Base_segment* 43 44  yx65a03.s1  40 41
+Base_segment  41 41  zd64b04.s1  39 39
+Base_segment* 42 42  zd64b04.s1  41 41
+Base_segment  34 40  zl21e01.s1  34 40
+Base_segment* 34 41  zl21e01.s1  34 41
+Base_segment  33 33  zt97d10.s1  33 33
+Base_segment* 33 33  zt97d10.s1  33 33
+Base_segment  31 32  zl21e01.s1  31 32
+Base_segment* 31 32  zl21e01.s1  31 32
+Base_segment  30 30  zt97d10.s1  30 30
+Base_segment* 30 30  zt97d10.s1  30 30
+Base_segment  29 29  yz94a12.s1  25 25
+Base_segment* 29 29  yz94a12.s1  27 27
+Base_segment  27 28  zt97d10.s1  27 28
+Base_segment* 27 28  zt97d10.s1  27 28
+Base_segment  25 26  yz94a12.s1  21 22
+Base_segment* 25 26  yz94a12.s1  23 24
+Base_segment  24 24  zt97d10.s1  24 24
+Base_segment* 24 24  zt97d10.s1  24 24
+Base_segment  23 23  yz94a12.s1  19 19
+Base_segment* 23 23  yz94a12.s1  21 21
+Base_segment  21 22  yx65a03.s1  17 18
+Base_segment* 21 22  yx65a03.s1  18 19
+Base_segment  19 20  zd64b04.s1  17 18
+Base_segment* 19 20  zd64b04.s1  18 19
+Base_segment  15 18  za25c08.s1  15 18
+Base_segment* 15 18  za25c08.s1  16 19
+Base_segment  10 14  zt97d10.s1  10 14
+Base_segment* 10 14  zt97d10.s1  10 14
+Base_segment  9 9  zd64b04.s1  8 8
+Base_segment* 9 9  zd64b04.s1  8 8
+Base_segment  8 8  zt97d10.s1  8 8
+Base_segment* 8 8  zt97d10.s1  8 8
+Base_segment  7 7  zd64b04.s1  6 6
+Base_segment* 7 7  zd64b04.s1  6 6
+Base_segment  5 6  zt97d10.s1  5 6
+Base_segment* 5 6  zt97d10.s1  5 6
+Base_segment  4 4  za25c08.s1  5 5
+Base_segment* 4 4  za25c08.s1  5 5
+Base_segment  1 3  zt97d10.s1  1 3
+Base_segment* 1 3  zt97d10.s1  1 3
+
+DNA za25c08.s1
+atcacggccagtgc*aagctaaaattaaccctcactaaag*ggaataagc
+ttg*gaccgc*ttaaTTAAAGATCTTTTTTTTTTTTTTTTTTTA*AGA*G
+TTCATAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGC
+CCTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGA
+AGCCCAAGAGAGGGGCAGAACGTAGT*TCTTG*ATTT*AAAAAAACA*GA
+AA*GGGGAGGAGGATGACCTTAACTACAAATAATATTCCACTGCAACATT
+ATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTG
+ATGGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAA
+TGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*A
+CACCACCTT*C*TG*T*CATGGCAC*TTTG*TaG*t*t
+
+Sequence za25c08.s1
+Clipping  4 458
+Clipping* 4 486
+
+DNA zk86e01.s1
+cggccagtgc*aagctaaaattaaccctcactaaag*ggaataagcttg*
+gaccgcctttttttTTTTTTTTTTTTTTTTTTTTTTTTTA*AGA*GTTCA
+TAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCCCTT
+TGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAAGCC
+CAAGAGAGGGGCAGAATGTAGT*TCTTG*ATTT*AAAAAAACA*GAAA*G
+GGGAGGAGGATGACCTTAACTACAAATAATATTCCACTGCAACATTATTG
+CTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGATGG
+CTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAATGCT
+TCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*ACACC
+ACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GTTT*CATCGAGTC*
+T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*GG*TAG*ACCATGAAG
+*TTGATTCCCGCCTCTAAGCATCTCTGTG*CC*AGCACTCGtcga
+
+Sequence zk86e01.s1
+Clipping  1 549
+Clipping* 1 593
+
+DNA zt97d10.s1
+tgacggccagtgccaagctaaaattaaccctcactaaagcggaataagct
+tgcggccgccaATTTTTTTTTTTTTTTTTTTTTT********A*AGA*GT
+TCATAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCC
+CTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAA
+GCCCAAGAGAGGGGCAGAACGTAGT*TCTTG*ATTT*AAAAAAACA*GAA
+A*GGGGAGGAGGATGACCTTAACTACAAATAATATTCCACTGCAACATTA
+TTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGA
+TGGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAAT
+GCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*AC
+ACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GTTT*CATCGAG
+TC*T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*GG*TAG*ACCATG
+AAG*TTGATTCCCGCCTCTAAGCATCTCTGTG*CC*AGCACTCGTCCTA*
+TACTCTC*ACAAGCCACCACATTTCTGGTACTaTaAAgg
+
+Sequence zt97d10.s1
+Clipping  1 588
+Clipping* 1 639
+
+DNA zn36h04.s1
+tctgccagtgaattgtaatacgactcactat*agggcgaattgggtaccg
+ggccccccctcgAGTTTTTTTTTTTTTTTTTTTTT*AGA*GTTCATAATA
+*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCCCTTTGAAA
+GTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAAGCCCAAGA
+GAGGGGCAGAATGTAGT*TCTTG*ATTT*AAAAAAACA*GAAA*GGGGAG
+GAGGATGACCTTAACTACAAATAATATTCCACTGCAACATTATTGCTGTA
+AAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGATGGCTGta
+gttg*ctgACAGATTTATATTTAcatggtcaaAACAATTAAtgcttcc*c
+attatt*caTAGATTCTC*TGAGG*TTCCCGTAG*AACC*ACACCACCTT
+*C*TG*T*catgggac*attg*tag*t*c*gctt*catCGAGTC*T*GAG
+g*ct*gt*c*tctcac*agggttgg*tt*tg*gag*accccgaag*ttga
+ttcccccctctaagaatctctgTg*gc*a*cactcgggcca*tattttc*
+acaagcg*ccacattttgggggcaTaaagagggttttatagcccccccag
+*tggggcgaaacacaccttgc*gattggggtcaccaaggtt
+
+Sequence zn36h04.s1
+Clipping  62 579
+Clipping* 63 625
+
+DNA zd64b04.s1
+cacggccagtgc*aagctaaaattaaccctcactaaag*ggaataagctt
+gcg*ccga*****tcttttTTTTTTTTTTTTTTTTTTTTTTA*AGA*GTT
+CATAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCCC
+TTTGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAAG
+CCCAAGAGAGGGGCAGAACGTAGT*TCTTG*ATTT*AAAAAAACA*GAAA
+*GGGGAGGAGGATGACCTTAACTACAAATAATATTCCACTGCAACATTAT
+TGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGAT
+GGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAATG
+CTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*ACA
+CCACCTT*C*TG*T*CATGGCAC*TTTG*TAg*t*c*ggtt*catcgagt
+c*t*gaag*Ct*gc*c*tcccac*gggttggg*tt*gg*gag*accATGA
+AG*TTgattccggc*tctaagcatc*ctgtg*gc*ag*actcggccta**
+actctt*aaaagccac*acatt*ctgggaccataagggggcttttatagc
+cacctcc*gttgggggcgaaaccaaact*tggaattttaggtgg
+
+Sequence zd64b04.s1
+Clipping  2 588
+Clipping* 2 645
+
+DNA yz94a12.s1
+acggc*agtgc*aagctaaaattaaccctcactaaag*ggaataagcttg
+cg*ccgagttttTTTTTTTTTTTTTTTTTTTT********a*aga*GTTC
+ATAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCCCT
+TTGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAAGC
+CCAAGAGAGGGGCAGAATGTAGT*TCTTG*ATTT*AAAAAAACA*GAAA*
+GGGGAGGAGGATGACCTTAACTACAAATAATATTCCACTGCAACATTATT
+GCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGATG
+GCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAATGC
+TTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*ACAC
+CACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GTTT*CATCGAGTC
+*T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*GG*TAG*ACCATGAA
+G*TTgattcc*gccTCTAAGCATCTCTGTG*Cc*agct
+
+Sequence yz94a12.s1
+Clipping  1 533
+Clipping* 1 587
+
+DNA zl21e01.s1
+tgacggccagtgccaagctaaaattaaccctcactaaag*ggaataagct
+tgcg*ccgccTTTTTTTTTTTTTTTTTT**************A*AGA*GT
+TCATAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCC
+CTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAA
+GCCCAAGAGAGGGGCAGAATGTAGT*TCTTG*ATTT*AAAAAAACA*Gaa
+a*ggtttggaggATGACCTTAACTACAAATAATATTCCACTGCAACATTA
+TTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGA
+TGGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAAT
+GCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*AC
+ACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GTTT*CATCGAG
+TC*T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*GG*TAG*ACCatg
+a*g*ttgatttccggctctaagcatctctgtg*tc*agcACTCGTCCTA*
+TACTctc*aacagccACCACATTTCTGGTACTATAAAGgtgccttttaat
+agcc*aCT*cacgagtggaagccgaaacc*acagc*ttggcattCTGATG
+CTCCacaag*gctctta*atgaggctgagtcctataatggcatcttgtcc
+gaattccgggggggaaaccgtcgccgagcggtctttctggtacagaaaag
+tcaggtccgcgggttccttgggaattcggggccttcgttcccagagccat
+tcgttccctccgcgagcgtgttagagggcacgcacccttggtcggaaagg
+ggttttccctcccggaggagaaattaagaagccccgcggcgcgaatttgg
+gagattcgggttaataaaatgtgttt
+
+Sequence zl21e01.s1
+Clipping  1 667
+Clipping* 1 733
+
+DNA yx65a03.s1
+cggccagtgc*aagctaaaattaaccctcactaaag*ggaataagcttgc
+gaccgagttttttTTTTTTTTTTTTTT************A*AGa*GTTCA
+TAATA*TG*CCTTTATTTTGTAATTTATAAACAACTTCTGACTTGCCCTT
+TGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATGCTTCTGAAGCC
+CAAGAGAGGGGCAGAACGTAGT*TCTTG*ATTT*AAAAAAACA*GAAA*G
+GGGAGGAGGATGACCTTAACTACAAATAATATTCCACTGCAACATTATTG
+CTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTCTTTTGATGG
+CTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACAATTAATGCT
+TCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*AACC*ACACc
+acCtt*cctg*t*cATGgcac*tttggtag*T*C*GTTT*CATCGagtc*
+ttgagG*CT*GC*C*TCCCac*ggggttgggtt*gggtag*ac*atgaag
+*gtgattcccgactctaaGCATCTCTGTG*CC*AGCACTCGTccta**at
+tctc*acaagccac*acatttcttgtactataaag*tgctttttataagc
+c*act*cacga*tggaggccgaa**c*acaac*ttgcc*ttctgatgctc
+c*caagtgcttc*ac*tgatgctg*gtcct*ata*ctcgga*cctgt*cc
+aga*cttacggg*gggaaccct
+
+Sequence yx65a03.s1
+Clipping  1 694
+Clipping* 1 768
+
+DNA yr84e03.s1
+taaccctcactaaatg*gaataagctttgcacccttaattaaagatctgt
+tgtttttgtgtattaagtat*aga*GTTCATAATA*TG*CCTTTATTTTG
+TAATTTATAAACAACTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGA
+TGACTGCTTTTCTTAGATGCTTCTGAAGCCCAAGAGAGGGGCAGAACGTA
+GT**CTTG*ATTT*AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAAC
+TACAAATAATATTCCACTGCAACATTATTGCTGTAAAACTTCC*AAGCTG
+GCTGTTCTTCCAGATGCTCTCTTTTGATGGCTGTagtgggctGACAGATT
+TATATTTACATGTTCAAAACAATTAATGCTTcc*atttatttcataggtt
+cTc*tgagggTTcccgtaggaacc*ACACCACCTt*c*tg*ttcagggca
+c*tttg*taggt*g*gttt*catcgagtcct*gagg*gt*ga*c*ttcca
+ccggggttGG*TT*GG*Tag*accctgaaggttgattcccgttttaaggg
+atttctgtg*cc*cagaatcgtccca*taattt
+
+Sequence yr84e03.s1
+Clipping  70 509
+Clipping* 72 541
+
+DNA yw95b02.s1
+gacaactaaat*taacctcataagggaataagcttggaccgcgaTTTTTT
+TTTTTTTTTTTTTTA*AGA*GTTCATAATA*TG*CCTTTATTTTGTAATT
+TATAAACAACTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACT
+GCTTTTCTTAGATGCTTCTGAAGCCCAAGAGAGGGGCAGAACGTAGT*TC
+TTG*ATTT*AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAA
+ATAATATTCCACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGT
+TCTTCCAGATGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATAT
+TTACATGTTCAAAACAATTAATGCTTCC*ATTTATT*CATAGATTCTC*T
+GAGG*TTCCCGTAG*AACC*ACACCACCTT*C*TG*T*CATGGCAC*TTT
+G*TAG*T*C*GTTT*CATCGAGTC*T*GAGG*CT*GC*C*TCCCAC*GGG
+GTTGG*TT*GG*TAG*ACCATGAAG*TTGATTCCCGCCTCTAAGCATCTC
+TGTG*CC*AGCACTCGTCCTA*TACTCTC*ACAAGCCACCACATTTCTGG
+TACTATAAAGGTGCTTTTTAATagcc*aCT*cACGAGTGgAggccgaa*c
+c*aca*cCTtgccatctgagt
+
+Sequence yw95b02.s1
+Clipping  44 616
+Clipping* 45 665
+
+DNA yr22g11.s1
+ccctcactaaag*ggaataagcttg*gaccgcttaattaaagatcttTTT
+TTTTTTTTTttaataa*aga*gtTCATAATA*TG*CCTTTATTTTGTAAT
+TTATAAACAACTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGAC
+TGCTTTTCTTAGATGCTTCTGAAGCCCAAGAGAGGGGCAGAACGTAGT*T
+CTtgtattT*AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACA
+AATAATATTCCACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTG
+TTCTTCCAGATGCTCTCTTTTGATGGCTGTAGTgg
+
+Sequence yr22g11.s1
+Clipping  1 324
+Clipping* 1 335
+
+DNA yq58g09.s1
+aacacttatta*aatggaataagttgtagactggttaattaaagatatat
+ttgttttttttgtgatagatgtTCATAATA*TG*CCTTTATTTTGTAATT
+TATAAACAACTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACT
+GCTTTTCTTAGATGCTTCTGAAGCCCAAGAGAGGGGCAGAACGTAGT*TC
+TTG*ATTT*AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAA
+ATAATATTCCACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGT
+TCTTCCAGATGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATAT
+TTACATGTTCAAAACAATTAATGCTTCC*ATTTATT*catggattCTC*T
+GAGG*TTCCCGTAG*AACC*ACACCACCTT*C*Tg*t*cagggcac*tt*
+g*taggt*c**ttt*catcttgcc*t*ttct*ga*ag*c*tccaca*agt
+gcttc*ta*ca*gat*gcgggggcg*a
+
+Sequence yq58g09.s1
+Clipping  49 442
+Clipping* 50 469
+
+DNA yu75c09.s1
+ccactattaa*atggaataagtttgttctgcttaattaaagatctTTTTT
+tttttattagatgt*tga*GTTCATAATA*TG*CCTTTATTTTGTAATTT
+ATAAACAACTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACTG
+CTTTTCTTAGATGCTTCTGAAGCCCAAGAGAGGGGCAGAACGTAGT*TCT
+TG*ATTT*AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAAA
+TAATATTCCACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTT
+CTTCCAGATGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATT
+TACATGTTCAAAACAATTAAtgcttcccatttatc*caaaggttctcctg
+agg*ttccc*tag*aacccaaaccacctt*t*tg*t*tattgggc*attt
+*tgt*t*a*gtcc*gttttatac*t*gttt*tg*gg*g*gtttga*cttc
+ccag*gg*gg*ttg*gtttggtag*acactggatagtttttccccgcttt
+tta*tt*t
+
+Sequence yu75c09.s1
+Clipping  45 417
+Clipping* 46 436
+
+DNA yv79e12.s1
+ataacaa*tattacagatataagtcttggaccgcagtTTTTTTTTTTTTT
+TTTTTttagtc*aat*catcATAATA*TG*CCTTTATTTTGTAATTTATA
+AACAACTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACTGCTT
+TTCTTAGATGCTTCTGAAGCCCAAGAGAGGGGCAGAATGTAGT*TCTTG*
+ATTT*AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAAATAA
+TATTCCACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTT
+CCAGATGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTAC
+ATGTTCAAAACAATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG
+*TTCCCGTAG*AACC*ACACCACCTt*c*tg*t*aatggCAC*TTTG*TA
+G*T*C*GTTT*CATCGAGTC*T*GAGG*CT*GC*C*TCCCac*ggggt*g
+g*tt*gg*gag*accctgaag*ttgattccagtctctaag*atctctgtg
+*cc*agaac*cgtcctt*a
+
+Sequence yv79e12.s1
+Clipping  36 521
+Clipping* 37 566
+
+DNA yg49h01.s1
+gg*ccagtgtaattcccttgcggccgaggaaTTTTTTTTTTTTTTTTTTT
+TTTTTA*AGA*GTTCATAATA*TG*CCTTTATTTTGTAATTTATAAACAA
+CTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTT
+AGATGCTTCTGAAGCCCAAGAGAGGGGCAGAATGTAGT*TCTTG*ATTT*
+AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAAATAATATTC
+CACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGA
+TGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTACATGTT
+CAAAACAATTAATGCTTCC*ATTTATT*catggattctc*tgagggTTcc
+cgtaggaacc*aCAccACctttc*tg*t*caggggac*tttG*tag*ttc
+*gttttcatcgagtt*t*gagggcttgc*c*tccc*c*ggggttgggtt*
+gggtaggaccatgaag*ttggatttccggcctttaaa
+
+Sequence yg49h01.s1
+Clipping  31 489
+Clipping* 32 520
+
+DNA yj87a02.s1
+aaccc*tcactaaaggaaataagcttggaccgaccTTTTTTTTTTTtata
+tatTTTTTA*AGa*gtactttc*a*tg*cCTTTATTTTGTAATTTATAAA
+CAACTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACTGCTTTT
+CTTAGATGCTTCTGAAGCCCAAGAGAGGGGCAGAACGTAGT**CTTG*AT
+TT*AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAAATAATA
+TTCCACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCC
+AGATGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTACAT
+GTTCAAAACAATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*T
+TCccgtgg*gacc*acacCACCTt*C*TG*T*CATGGCAC*TTTg*tagg
+t*c*gTTT*CATCGAGTc*t*gagg*gt*gc*c*ttccac*ggggttgg*
+tttgg*tag*accttgaag*ttgtttacctag
+
+Sequence yj87a02.s1
+Clipping  35 483
+Clipping* 36 523
+
+DNA yh79h10.s1
+ta*acctcactaaagggaataagcttggtccgcagaaTTTTTTTTTTTTt
+ttTTTA*AGA*GTTCAtag*a*tggcCTTTATTTTGTAATTTATAAACAA
+CTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTT
+AGATGCTTCTGAAGCCCAAGAGAGGGGCAGAATGTAGT*TCTTG*ATTT*
+AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAAATAATATTC
+CACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGA
+TGCTCTCTTTTGATGGCTGTagtag*ctGACAGATTTATATTTACATGTT
+CAAAACAATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCC
+Cgtag*ggcccaCaccacctt*c*tggt*catggggcatttg*taggt*c
+cgttt*catggggtc*t*gggggct*gc*cctccc*c*ggggttgg*ga*
+tg*ggg*aggacctgg*aggtttgttccccgctcttagggttttg
+
+Sequence yh79h10.s1
+Clipping  37 467
+Clipping* 38 496
+
+DNA yl10h11.s1
+cc*tcactaaagggaataatcttggcccgacctTtttttttttttatatt
+tgtcta*aGa*gtt*aggtga*tg*CCTTTATTTTGTAATTTATAAACAA
+CTTCTGACTTGCCCTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTT
+AGATGCTTCTGAAGCCCAAGAGAGGGGCAGAACGTAGT*TCTtg*atttT
+AAAAAAACA*GAAA*GGGGAGGAGGATGACCTTAACTACAAATAATATTC
+CACTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGA
+TGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTACATGTT
+CAAAACAATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCC
+CGTAG*AACC*ACACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C
+*GTTT*CATCGAGTC*T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*
+GG*Tag*accttgaaG*TTGATTCCCGCCTCTAAGcatccctgtG*CC*A
+GCACtcgtg
+
+Sequence yl10h11.s1
+Clipping  32 516
+Clipping* 33 558
+
+DNA yo66e09.s1
+taacattattacaggaatatgcttgaccacttTTTTTTtttttattTTtt
+a*aga*ttttatg*tagtg*ccTTTATTTTGTAATTTATAAACAACTTCT
+GACTTGCCCTTTGAAAGTTAATTATAATTGATGACTGCTTTTCTTAGATG
+CTTCTGAAGCCCAAGAGAGGGGCAGAACGTAgtatctTG*ATTT*AAAAA
+AACA*GAAA*GGGGAGGAGGATGACCTTAACTACAAATAATATTCCACTG
+CAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTC
+TCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAA
+CAATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG
+*AACC*ACACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GTTT
+*CATCGAGTc*t*gagg*gt*gc*c*tcccac*ggggttgg*gt*gg*ta
+g*ACCATGAAG*TTGAttcccgtcctaaggattttgtggc*cg*tttttt
+
+Sequence yo66e09.s1
+Clipping  31 484
+Clipping* 31 522
+
+DNA yo66e09.r1.comp
+taaatgct*ctgaaacccaagaGAGGGGCAGAACGTagt*tctgg*ttta
+*aaAAAaaca*gaa**ggggaggaggatgACCTTAACTACAAataatatc
+ccaCTGCAACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAG
+ATGCTCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTACATGT
+TCAAAACAATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTC
+CCGTAG*AACC*ACACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*
+C*GTTT*CATCGAGTC*T*GAGG*CT*gcac*tacCAC*GGGGTTGG*TT
+*GG*TAG*ACCATGAAG*TTGATTCCCGCCTCTAAGCATCTCTGTG*CC*
+AGCACTCGTCCTA*TACTCTC*ACAAGCCACCACATTTCTGGTACTATAA
+AGGTGCTTTTTAATAGCCCACT*CACGAGTGGAGGCCGAAACC*ACAACC
+TTGCCATCctcgtgccgaattcatgctcgagggccaaatccctatatgat
+cgtatta
+
+Sequence yo66e09.r1.comp
+Clipping  4 466
+Clipping* 4 508
+
+DNA zr82c03.r1.comp
+tctgAAGCCCAAGAGAGGGGCAGAACGTAGT*TCTTG*ATTT*AAAAAAA
+cacgaaacggggAgGAGGATGACCTTAACTACAAATAATATTCCACTGCA
+ACATTATTGCTGTAAAACTTCC*AAGCTGGCTGTTCTTCCAGATGCTCTC
+TTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAAAACA
+ATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGTAG*A
+ACC*ACACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GTTT*C
+ATCGAGTC*T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*GG*TAG*
+ACCATGAAG*TTGATTCCCACCCTCgtgccgaattact*gc*tcgaggcc
+aaatt*ccctata*ggagtcag
+
+Sequence zr82c03.r1.comp
+Clipping  1 342
+Clipping* 1 375
+
+DNA ze74c09.r1.comp
+tgcaACATTATTGCtgtaAa*cttcccaagcTGGCTGTTCTTCCAGATGC
+TCTCTTTTGATGGCTGTAGTGG*CTGACAGATTTATATTTACATGTTCAA
+AACAATTAATGCTTCC*ATTTATT*CATAGATTCTC*TGAGG*TTCCCGT
+AG*AACC*ACACCACCTT*C*TG*T*CATGGCAC*TTTG*TAG*T*C*GT
+TT*CATCGAGTC*T*GAGG*CT*GC*C*TCCCAC*GGGGTTGG*TT*GG*
+TAG*ACCATGAAG*TTGATTCCCGCCTCTAAgcatatctgtgtccgagcA
+CTCGTCCTA*TACTCTC*ACAAGCCACCACATTTCTGGTACTATAAAGGT
+GCTTTTTAATAGCCCACT*CACGAGTGGAGGCCGAAACC*ACAACCTTGC
+CATTCTGATGCTCCACAAGTGCTTCTACATGATGCTGAGTCCTTATAACT
+CGCAACCTGTGCCAGAACTCACGGGAGGGAAACACCGTCCGCCAGCCCCG
+CTCTTTccctgcTACAGcctcgtgccgaatctcttgcctcgagggccaaa
+ttccctatagtgagtcgtatta
+
+Sequence ze74c09.r1.comp
+Clipping  1 483
+Clipping* 1 517
+
+DNA zx64h05.r1.comp
+ttgtcaaaaacaattaatgctcca*atttatt*caTAGATTCTC*TGAGG
+*TTCCCGTAG*AACC*ACACCACCTT*C*TG*T*CATGGCAC*TTTG*TA
+G*T*C*GTTT*CATCGAGTC*T*GAGG*CT*GC*C*TCCCAC*GGGGTTG
+G*TT*GG*TAG*ACCATGAAG*TTGATTCCCGCCTCTAAGCATCTCTGTG
+*CC*AGCACTCGTCCTA*TACTCTC*ACAAGCCACCACATTTCTGGTACT
+ATAAAGGTGCTTTTTAATAGCCCACT*CACGAGTGGAGGCCGAAACC*AC
+AACCTTGCCATTCTGATGCTCCACAAGTGCTTCTACATGATGCTGAGTCC
+TTATAACTCGCAACCTGTGCCAGAACTCACGGGAGGGAAACACCGTCCGC
+CAGCCCCGCTCTTTCCTGGCTACAGATAAAAGCTCCAGGTTCCGGGGGTT
+CCGGTTGGTGAATTCTGGGGCGACAGCTTCATTTTCCACAGGGTCCACTT
+CAGGTTTCGCTGCCGGCTCGGAGCTGGTTGACAGGGCTGCGAACCTGCAC
+CACTCctgagcctcgtgccgaattctttgcctcgagggccaaattcccta
+tagtgatcgtattaa
+
+Sequence zx64h05.r1.comp
+Clipping  7 521
+Clipping* 7 555
+
+DNA yr84e03.r1.comp
+a*cgggttgg*tt*gg*tag*accatgaa**ttgaatcccgcCTCTAAGC
+ATCTCTGTG*CC*AGCACTCGTCCTA*TActctccacaagcCACCACATT
+TCTGGTACTATAAAGGTGCTTTTTAATAGCCCACT*CACGAGTGGAGGCC
+GAAACC*ACAACCTTGCCATTCTGATGCTCCACAAGTGCTTCTACATGAT
+GCTGAGTCCTTATAACTCGCAACCTGTGCCAGAACTCACGGGAGGGAAAC
+ACCGTCCGCCAGCCCCGCTCTTTCCTGGCTACAGATAAAAGCTCCAGGTT
+CCGGGGGTTCCGGTTGGTGAATTCTGGGGCGACAGCTTCATTTTCCACAG
+GGTCCACTTCAGGTTTCGCTGCCGGCTCGGAGCTGGTTGACAGGGCTGCG
+AACCTGCACCCAGGGTTCCTGCAAACCGAGAACCCCCAAAACTGCGACCG
+AAGCGCcAt*gcTGAGACGctcgtgccgaattcctgctcgagggccaaat
+tccctatagtgatcgtatac
+
+Sequence yr84e03.r1.comp
+Clipping  3 456
+Clipping* 4 469
+
+DNA yz29c09.r1.comp
+ctcccgcCTCTAAGCATCTCTGTG*CC*AGCACTcgtc*tagtactCTC*
+ACAAGCCACCACATTTCTGGTACTATAAAGGTGCTTTTTAATagCc*act
+tcACGagtggag*ccggaaccgacaaccttGCCATTCTGATGCTCCACAA
+GTGCTTCTACATGATGCTGAGTCCTTATAACTCGCAACCTGTGCCAGAAC
+TCacgggagggatacaCCGTCCGCCAGCCCCGCTCTTTCCTGGCTACAGA
+TAAAAGCTCCAGGTTCCGGGGGTTCCGGTTGGTGAATTCTGGGGCGACAG
+CTTCATTTTCCACAGGGCCCACTTCAGGTTTCGCTGCCGGCTCGGAGCTG
+GTTGACAGGGCTGCGAACCTGCACCCAGGGTTCCTGCAAACCGAGAACCC
+CCAAAACTGCgaccgcagcgCCATCGCtgaGACGATCTCGGAAAagcctC
+GCCTCTTTTtccgcctcgtgccgaatgtcctgctcgaggccgaattccct
+atagtgagtcgtattaatcg
+
+Sequence yz29c09.r1.comp
+Clipping  2 514
+Clipping* 2 520
+
