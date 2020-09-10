@@ -1,6 +1,8 @@
-![Forage](https://github.com/MichaelStromberg-KTH/Forage/raw/main/forage.png)
+![Forage](https://github.com/MichaelStromberg-KTH/Forage/raw/main/Docs/forage.png)
 
 Back in 2004, I created a Bayesian variant caller that used two different neural networks to filter false positives. The first NN uses the LVQ3 algorithm and the second NN uses the Optimal Brain Damage (OBD) algorithm. That algorithm name brings a smile to my face every time I say it.
+
+![Forage Dual NN System Design](https://github.com/MichaelStromberg-KTH/Forage/raw/main/Docs/ForageDualNNSystemDesign.png)
 
 These were very different times - long before BAM files and VCF files existed. Instead, we often used phred and ace files for the reads and alignments. This tool produced the output directly to stdout.
 
