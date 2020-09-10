@@ -1,4 +1,4 @@
-# Forage
+![Forage](https://github.com/MichaelStromberg-KTH/Forage/raw/main/forage.png)
 
 Back in 2004, I created a Bayesian variant caller that used two different neural networks to filter false positives. The first NN uses the LVQ3 algorithm and the second NN uses the Optimal Brain Damage (OBD) algorithm. That algorithm name brings a smile to my face every time I say it.
 
