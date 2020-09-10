@@ -3,7 +3,7 @@
 #
 SOURCES.cpp= Ace.cpp BayesianAlgorithm.cpp BayesianUtils.cpp Contig.cpp DualCodebook.cpp Forage.cpp Key.cpp KeyTable.cpp MeanStdDev.cpp ProbHash.cpp RuntimeParameters.cpp Sequence.cpp SynchronizedArrays.cpp
 CC=g++
-CPPFLAGS=-g
+CPPFLAGS=-O3
 PROGRAM=forage
 
 OBJECTS= $(SOURCES.cpp:.cpp=.o)
